@@ -91,7 +91,7 @@ client.on("message", async message =>{
 				}
 			}
 			else{
-				message.reply("No privalaigeosges or in voice channel");
+				message.reply("No privileges or in voice channel");
 			}
 
 		} //summon
@@ -103,7 +103,7 @@ client.on("message", async message =>{
 				message.guild.voiceConnection.disconnect();
 			}
 			else{
-				message.reply("No privalaigeosges or in voice channel");
+				message.reply("No privileges or in voice channel");
 			}
 		} //leave
 
@@ -122,7 +122,7 @@ client.on("message", async message =>{
 				speakerMember = message.member;
 			}
 			else{
-				message.reply("No privalaigeosges or in voice channel");
+				message.reply("No privileges or in voice channel");
 			}
 		} //lock
 
@@ -138,7 +138,7 @@ client.on("message", async message =>{
 				})
 			}
 			else{
-				message.reply("No privalaigeosges or in voice channel");
+				message.reply("No privileges or in voice channel");
 			}
 		} //lock
 	} //admin commands

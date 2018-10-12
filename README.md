@@ -1,4 +1,6 @@
 # README #
 See codeFinal.js header
+
 As of October 12, 2018.
-SHA256 of code: 8141e38640eaf39ff6d1ddf08265837cef00d1eb29a5a735d9bb59e9f6fcc757
+
+SHA256 of code: 514826dbd36d46c506820f8389693980edb779fa985f336bc6c1652180d3cd1e
